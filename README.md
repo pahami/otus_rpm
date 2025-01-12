@@ -142,11 +142,13 @@ nginx -t
 <details>
 
 <summary> Вывод результата </summary>
+
 ```
 nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
 nginx: configuration file /etc/nginx/nginx.conf test is successful
 ```
 </details>
+
 ```
 nginx -s reload
 ```
