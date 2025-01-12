@@ -159,11 +159,9 @@ curl -a http://localhost/repo/
 <details>
 
 <summary> Вывод результата </summary>
+
 ```
-<html>
-<head><title>Index of /repo/</title></head>
-<body>
-<h1>Index of /repo/</h1><hr><pre><a href="../">../</a>
+
 <a href="repodata/">repodata/</a>                                          12-Jan-2025 19:16                   -
 <a href="nginx-1.20.1-20.el9.alma.1.x86_64.rpm">nginx-1.20.1-20.el9.alma.1.x86_64.rpm</a>              12-Jan-2025 19:16               36229
 <a href="nginx-all-modules-1.20.1-20.el9.alma.1.noarch.rpm">nginx-all-modules-1.20.1-20.el9.alma.1.noarch.rpm</a>  12-Jan-2025 19:16                7341
@@ -176,8 +174,7 @@ curl -a http://localhost/repo/
 <a href="nginx-mod-mail-1.20.1-20.el9.alma.1.x86_64.rpm">nginx-mod-mail-1.20.1-20.el9.alma.1.x86_64.rpm</a>     12-Jan-2025 19:16               53793
 <a href="nginx-mod-stream-1.20.1-20.el9.alma.1.x86_64.rpm">nginx-mod-stream-1.20.1-20.el9.alma.1.x86_64.rpm</a>   12-Jan-2025 19:16               80419
 <a href="percona-release-latest.noarch.rpm">percona-release-latest.noarch.rpm</a>                  04-Jul-2024 09:46               27900
-</pre><hr></body>
-</html>
+
 ```
 </details>
 
